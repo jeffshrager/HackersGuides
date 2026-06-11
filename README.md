@@ -44,6 +44,12 @@ Each guide lives in its own directory alongside the source file(s) it reads (whe
 
 Corrections are especially welcome: factual errors, misread code, missing attributions, or better provenance for a source file. If proposing a new guide, the bar is a program that is (a) historically significant, (b) available as readable source with known provenance, and (c) small enough to tour honestly in a single document.
 
+## And...Yeah these were obviously created by AIs...
+
+...although I do cross-check them quite a bit, there are almost
+certainly issues. I greatly appreciate corrections and feedback to
+jshrager@gmail.com.
+
 # Copyright
 
 **Hacker's Guides** — guide texts, commentary, and supporting material.
