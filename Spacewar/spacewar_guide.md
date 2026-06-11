@@ -1,4 +1,7 @@
-# A Traveler's Guide to Spacewar!
+# A Hacker's Guide to Spacewar!
+
+Copyright © 2026 Jeff Shrager (<jshrager@gmail.com>). All rights
+reserved. (See copyright details at the end of this document.)
 
 *For the curious visitor who wants to read one of computing's founding artifacts — the 1962 PDP-1 space-combat game — without a machine-room badge*
 
@@ -247,3 +250,23 @@ Claims in this guide about code behavior come primarily from `spacewar_2b_2apr62
 - David M. Berry and Mark C. Marino, *Spacewar! (1962): A Critical Code Studies Reading* — <https://github.com/spacewar1962> and project site <https://spacewar1962.github.io/spacewar/>
 - DEC, *PDP-1 Handbook* (Programmed Data Processor-1 manual) and the MIT *MIDAS* assembler documentation — background for the instruction set and assembler notation described in the Practical Notes
 
+# Copyright
+
+**Hacker's Guides** — guide texts, commentary, and supporting material.
+
+Copyright © 2026 Jeff Shrager (<jshrager@gmail.com>). All rights reserved.
+
+Permission requests, corrections, and questions: <jshrager@gmail.com>.
+
+## Scope
+
+This copyright covers the original text of the guides and the README — the prose, structure, commentary, and annotations written for this repository: https://github.com/jeffshrager/HackersGuides
+
+It does **not** cover:
+
+- **The historic source code being read.** Quoted program source (and any complete source files included in this repository) remains the property of its respective authors and rights holders, or is in the public domain, as the case may be. Excerpts appear here for purposes of commentary, criticism, and scholarship. Provenance for each program's source is stated in the corresponding guide.
+- **Quoted third-party material.** Brief quotations from cited historical accounts and documentation remain the property of their respective rights holders and are used for the same purposes.
+
+## Attribution
+
+If you quote or reference a guide, please credit "Hacker's Guides, Jeff Shrager" and link to this repository: https://github.com/jeffshrager/HackersGuides
