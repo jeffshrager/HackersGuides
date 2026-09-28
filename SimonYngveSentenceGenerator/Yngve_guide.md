@@ -1,4 +1,4 @@
-# A Hacker's Guide to Yngve's Sentence Generator (IPL-V, 1962)
+# A Hacker's Guide to Herbert Simon's IPL-V Version of Yngve's Sentence Generator (1962)
 
 Copyright © 2026 Jeff Shrager (<jshrager@gmail.com>). All rights
 reserved. (See copyright details at the end of this document.)
