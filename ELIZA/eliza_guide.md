@@ -7,6 +7,11 @@ reserved. (See copyright details at the end of this document.)
 
 ---
 
+*Warning*: Large parts of this document were created using AI
+assistance. *Doveryai, No Proveryai!*
+
+---
+
 ## Before You Arrive: What Is ELIZA?
 
 ELIZA is a conversation program written by Joseph Weizenbaum at MIT between 1964 and 1966, running under CTSS — the first general-purpose time-sharing system — on an IBM 7094. Its most famous script, DOCTOR, parodies a Rogerian psychotherapist: you type "MY BOYFRIEND MADE ME COME HERE" and it answers with your own words turned back at you. Weizenbaum built it partly to show how cheaply the *impression* of understanding could be manufactured; to his lasting dismay, people confided in it anyway.

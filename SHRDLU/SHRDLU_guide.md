@@ -7,6 +7,11 @@ reserved. (See copyright details at the end of this document.)
 
 ---
 
+*Warning*: Large parts of this document were created using AI
+assistance. *Doveryai, No Proveryai!*
+
+---
+
 ## Before You Arrive: What Is SHRDLU?
 
 SHRDLU is a computer program written between 1968 and 1971 by Terry Winograd as his MIT PhD dissertation. It could hold a typed conversation in English about a simple world of colored blocks sitting on a table. You could ask it where the big green block was, tell it to pick up the red pyramid, or ask it why it had just done what it did — and it would answer sensibly, perform the action, or explain its reasoning.

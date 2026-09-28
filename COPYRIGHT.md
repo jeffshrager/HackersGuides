@@ -18,3 +18,10 @@ It does **not** cover:
 ## Attribution
 
 If you quote or reference a guide, please credit "Hacker's Guides, Jeff Shrager" and link to this repository: https://github.com/jeffshrager/HackersGuides
+
+---
+
+*Warning*: Large parts of this document were created using AI
+assistance. *Doveryai, No Proveryai!*
+
+---

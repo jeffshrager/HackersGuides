@@ -7,6 +7,11 @@ reserved. (See copyright details at the end of this document.)
 
 ---
 
+*Warning*: Large parts of this document were created using AI
+assistance. *Doveryai, No Proveryai!*
+
+---
+
 ## Before You Arrive: What Is the Logic Theorist?
 
 The Logic Theorist (LT) was created by Allen Newell, J. C. (Cliff) Shaw, and Herbert Simon at the RAND Corporation and Carnegie Tech in 1955–1956. It discovered proofs of theorems in the propositional calculus of Whitehead and Russell's *Principia Mathematica* by heuristic search, and it is widely regarded as the first artificial intelligence program. In January 1956 Simon walked into a classroom and announced, "Over Christmas Allen Newell and I invented a thinking machine." By 1957 the machine version had proved 38 of the first 52 theorems of *Principia* Chapter 2 — and for Theorem \*2.85 it found a proof shorter and more direct than Whitehead and Russell's own. Simon sent it to Bertrand Russell, who responded with delight.
